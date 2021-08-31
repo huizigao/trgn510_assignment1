@@ -1,0 +1,499 @@
+    1  last 
+    2  who
+    3  exit
+    4  ls
+    5  cd ..
+    6  ls
+    7  cd huizigao
+    8  ls
+    9  who
+   10  echo $TRGN
+   11  echo $HOST
+   12  tree
+   13  exit
+   14  passwd
+   15  mkdir bin
+   16  ls
+   17  mkdir scripts
+   18  mkdir projects
+   19  ls
+   20  tree~
+   21  tree ~
+   22  ls
+   23  tree ~
+   24  ls
+   25  cd assignments
+   26  ls
+   27  cd trgn510_assignment1
+   28  ls
+   29  ls
+   30  mkdir
+   31  mkdir assaignment
+   32  mkdir assignments
+   33  ls
+   34  cd assignments
+   35  ~/assignments
+   36  git clone
+   37  ~/assignments
+   38  git clone
+   39  https://github.com/huizigao/trgn510_assignment1.git
+   40  git clone https://github.com/huizigao/trgn510_assignment1.git
+   41  cd trgn510_510assginment1
+   42  cd trgn510_assignment1
+   43  ls
+   44  vim readme.md
+   45  ls
+   46  cd assignments
+   47  ls
+   48  cd assignments
+   49  ls
+   50  cd assignments
+   51  lss
+   52  ls
+   53  cd trgn510_assignment1
+   54  ls
+   55  Readme.md
+   56  ls
+   57  vim Readme.md
+   58  ls
+   59  cd assignments
+   60  ls
+   61  git clone https://github.com/huizigao/trgn510_assignment1.git
+   62  ls
+   63  cd trgn510_assignment1
+   64  ls 
+   65  ls
+   66  cd.. assignments
+   67  cd ..
+   68  ls
+   69  rmdir assaignment
+   70  ls
+   71  cd assignments
+   72  ls
+   73  rmdir trgn510_assignment1
+   74  ls
+   75  rm-r trgn510_assignment1
+   76  ls
+   77  cd trgn510_assignment1
+   78  ls
+   79  rmdir trgn510_assignment1
+   80  cd..
+   81  cd ..
+   82  rmdir trgn510_assignment1
+   83  rm -rf trgn510_assignment1
+   84  ls
+   85  git clone https://github.com/huizigao/trgn510_assignment1.git
+   86  ls
+   87  cd trgn510_assignment1
+   88  ls
+   89  vim README.me
+   90  ls
+   91  cd assignments
+   92  ls
+   93  cd trgn510_assignment1
+   94  ls
+   95  cd readme.md
+   96  cd README.md
+   97  vim README.md
+   98  ls
+   99  cd assignments
+  100  ls
+  101  cd trgn510_assignment1
+  102  ls
+  103  xdg-open Readme.md
+  104  ls
+  105  xdg-open README.md
+  106  ls
+  107  rmdir README.md
+  108  rm -r README.md
+  109  ls
+  110  xdg-open Readme.md
+  111  ls
+  112  xdg-open Readme.md
+  113  ls
+  114  cd..
+  115  cd.. 
+  116  cd ..
+  117  ls
+  118  cd trgn510_assignment1
+  119  ls
+  120  git add . -A
+  121  LS
+  122  ls
+  123  git add. -A
+  124  git add . -A
+  125  LS
+  126  ls
+  127  git add . -A
+  128  ls
+  129  cd ..
+  130  git add . -A
+  131  ls
+  132  cd trgn510_assignment
+  133  cd trgn510_assignment1
+  134  ls
+  135  ls
+  136  cd assignments
+  137  ls
+  138  cd trgn510_assignment1
+  139  ls
+  140  vim Readme.md
+  141  ls
+  142  cd Readme.md
+  143  cd README.md
+  144  ls
+  145  cd Readme.me
+  146  cd Readme.md
+  147  open Readme.md
+  148  cd Readme.txt
+  149  xdg-open Readme.txt
+  150  xdg-open Readme.md
+  151  ls
+  152  xdg-open README.md
+  153  ls
+  154  cd assignments
+  155  ls
+  156  cd trgn510_assignment1
+  157  ls
+  158  git add . -A
+  159  ls
+  160  git commit -m "First commit"
+  161  ls
+  162  git push
+  163  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
+  164  LS
+  165  ls
+  166  git add . -A
+  167  ls
+  168  git commit -m "First commit"
+  169  huizigao@usc.edu
+  170  git push
+  171  git push'
+  172  git push
+  173  ls
+  174  cd assignments
+  175  ls
+  176  cd trgn510_assignment1
+  177  ls
+  178  git push
+  179  ls
+  180  cd assignments
+  181  ls
+  182  cd trgn510_assignment1
+  183  ls
+  184  cd problem1
+  185  ls
+  186  history
+  187  cat >newfile
+  188  ls
+  189  cd assignments
+  190  ls
+  191  cd trgn510_assignment1
+  192  ls
+  193  git add . -A
+  194  git commit -m "First commit"
+  195  huizigao@usc.edu
+  196  git config --global user-huizigao@usc.edu
+  197  git config --global user.huizigao@usc.edu
+  198  git config --global user.huizigao
+  199  git commit -m "First commit"
+  200  git config --global user.huizigao@usc.edu
+  201  git config --global user.huizigao
+  202  git add . -A
+  203  git commit -m "First commit"
+  204  git config --global user.huizigao@usc.edu
+  205  git config --global user.huizigao
+  206  git commit -m "First commit"
+  207  git config --global user.email "huizigao@usc.edu"
+  208  git config --global user.name "Huizi Gao"
+  209  git add . -A
+  210  git commit -m "First Commit"
+  211  git push
+  212  ks
+  213  ls
+  214  cd readme
+  215  ls
+  216  mkdir problem1
+  217  ls
+  218  history
+  219  ls
+  220  mkdir myhistory.txt
+  221  ls
+  222  vim myhistory.txt
+  223  ls
+  224  cd assignments
+  225  ls
+  226  cd trgn510_assignment1
+  227  ls
+  228  rm myhistory.txt
+  229  rm -r myhistory.txt
+  230  ls
+  231  cd problem1
+  232  ls
+  233  rm -r newfile
+  234  ls
+  235  cat >myhistory.txt
+  236  ls
+  237  cd assignments
+  238  ls
+  239  cd trgn510_assignment1
+  240  ls
+  241  cd problem1
+  242  ls
+  243  history
+  244  cat [filename-whose-contents-is-to-be-copied] > [destination-filename]
+  245  cat [history-is-to-be-copied] > [destination-myhistory.txt]
+  246  ls
+  247  cat -n [destination-filename]
+  248  cat -n [destination-myhistory.txt] 
+  249  rmdir [destination-filename]
+  250  rm -r [destination-filename]
+  251  rm -r [destination-myhistory.txt] 
+  252  ls
+  253  history > myhistory.problem1.txt
+  254  ls
+  255  cat -n myhistory.problem1.txt
+  256  ls
+  257  rm -r myhistory.problem1.txt
+  258  ls
+  259  cat -n myhistory.txt
+  260  ls
+  261  history > myhistory.txt
+  262  ls
+  263  cat -n myhistory.txt
+  264  cd ..
+  265  ls
+  266  mkdir problem2
+  267  ls
+  268  cp /data/bashrc_sample ~/assignments/trgn_assignment1/problem2/.
+  269  ls
+  270  cd assignments
+  271  ls
+  272  cd trgn510_assignment1
+  273  ls
+  274  cd problem2
+  275  ls
+  276  cp /data/bashrc_sample /assignments/trgn_assignment1/problem2/.
+  277  cp /data/bashrc_sample /assignments/trgn_assignment1/problem2.
+  278  cp /data/bashrc_sample /assignments/trgn_assignment1/problem2
+  279  cp /data/bashrc_sample home/huizigao/assignments/trgn_assignment1/problem2/.
+  280  cd ..
+  281  cp /data/bashrc_sample ~/assignments/trgn510_assignment1/problem2/.
+  282  ls
+  283  cd assignments
+  284  ls
+  285  cd trgn510_assignment1
+  286  ls
+  287  cd problem2
+  288  ls
+  289  g
+  290  vim bashrc_sample
+  291  ls
+  292  cd assignments
+  293  ls
+  294  cd trgn_assignment1
+  295  cd trgn510_assignment1
+  296  ls
+  297  cd problem2
+  298  ls
+  299  mv bashrc_sample
+  300  ls
+  301  mv bashrc_sample .bashrc
+  302  ls
+  303  cp /data/bashrc_sample ~/assignments/trgn510_assignment1/problem2/.
+  304  ls
+  305  ~
+  306  ls
+  307  cp /assignments/trgn510_assignment1/problem2/bashrc_sample huizi. 
+  308  cd ..
+  309  cd..
+  310  cd ..
+  311  ls
+  312  cd ..
+  313  ls
+  314  cd huizigap
+  315  cd huizigao
+  316  ls
+  317   cp /assignments/trgn510_assignment1/problem2/bashrc_sample /huizi
+  318  cp /assignments/trgn510_assignment1/problem2/bashrc_sample /huizi/ .
+  319  ls
+  320  cd assignments
+  321  ls
+  322  cd trgn510_assignment1/
+  323  s
+  324  ls
+  325  cd problem
+  326  ls
+  327  cd problem2
+  328  ls
+  329  cat bashrc_sample 
+  330  ls
+  331  cd ..
+  332  ls
+  333  cd ..
+  334  ls
+  335  cd ..
+  336  ls
+  337  cd huizigao/
+  338  ls
+  339  cd assignments/
+  340  ls
+  341  cd trgn510_assignment1/
+  342  ls
+  343  cd problem2
+  344  ls
+  345  cd
+  346  ls
+  347  cp assignments/trgn510_assignment1/problem2/bashrc_sample ./
+  348  ls
+  349  mv bashrc_sample .bashrc
+  350  ls
+  351  ll
+  352  ll -a
+  353  cat .bashrc 
+  354  ll
+  355  ls -a
+  356  ls
+  357  cd assignments/
+  358  ls
+  359  cd trgn510_assignment1/
+  360  ls
+  361  cd problem
+  362  ls
+  363  cd problem1
+  364  cd ../problem2
+  365  ls
+  366  echo "huizigao"
+  367  echi "huizigao" > huizigao.txt
+  368  echo "huizigao" > huizigao.txt
+  369  ls
+  370  cat huizigao.txt 
+  371  ls
+  372  vim
+  373  vim huizigao.txt 
+  374  cat huizigao.txt 
+  375  vim huizigao.txt 
+  376  cat huizigao.txt 
+  377  ls
+  378  pwd
+  379  man pwd
+  380  man man
+  381  man cp
+  382  pwd
+  383  cd ../../../
+  384  cd assignments/trgn510_assignment1/problem2
+  385  ls
+  386  pwd
+  387  cd
+  388  pwd
+  389  cp ./assignments/trgn510_assignment1/problem2/huizigao.txt ./
+  390  l
+  391  ll
+  392  ls
+  393  cd assignments/trgn510_assignment1/problem2
+  394  ls
+  395  cd
+  396  mv /home/huizigao/assignments/trgn510_assignment1/problem2/huizigao.txt /home/huizigao/
+  397  ls
+  398  cd assignments/
+  399  ls
+  400  cd trgn510_assignment1/
+  401  ls
+  402  d problem2
+  403  cd problem2
+  404  ls
+  405  cd
+  406  ls
+  407  ls -a
+  408  cat .bashrc 
+  409  man source
+  410  ls
+  411  cd assignments/trgn510_assignment1/problem2
+  412  ls
+  413  vim bashrc_sample 
+  414  ls -a
+  415  rm .bashrc_sample.swp 
+  416  ls
+  417  ls -a
+  418  vim bashrc_sample 
+  419  cat bashrc_sample 
+  420  echo "USER"
+  421  echo $USER
+  422  echo $HOSTNAME
+  423  ls
+  424  source ~/assignments/trgn510_assignment1/problem2/bashrc_sample 
+  425  ls
+  426  man source
+  427  exit
+  428  ls
+  429  cd assignments/
+  430  ls
+  431  cd trgn510_assignment1/
+  432  ls
+  433  cd problem2
+  434  ls
+  435  cat
+  436  ls
+  437  rm huizigao.txt 
+  438  ls
+  439  cd assignments/
+  440  ls
+  441  cd trgn510_assignment1/
+  442  cd problem2
+  443  ls
+  444  cp ~/assignments/trgn_assignment1/problem2/bashrc_sample ~/.bashrc
+  445  cp ~/assignments/trgn510_assignment1/problem2/bashrc_sample ~/.bashrc
+  446  ls
+  447  cd 
+  448  ls
+  449  ls -a
+  450  cat .bashrc 
+  451  exit
+  452  ls
+  453  cp /home/data/vimrc ~/assignments/trgn_assignment1/problem2/
+  454  cp /home/data/vimrc ~/assignments/trgn510_assignment1/problem2/
+  455  ls
+  456  cd assignments/
+  457  ls
+  458  cd p
+  459  cd trgn510_assignment1/
+  460  ls
+  461  cd problem
+  462  ls
+  463  cp vimrc ~/.vimrc
+  464  cd
+  465  ls -a
+  466  ls
+  467  cd assignments/
+  468  ls
+  469  cd t`
+cd trgn510_assignment1/
+ls
+  470  ls
+  471  cd trgn510_assignment1/
+  472  ls
+  473  mkdir problem3
+  474  ls
+  475  cd problem
+  476  ls
+  477  cd ..
+  478  ls
+  479  cd problem3
+  480  cd ..
+  481  ls
+  482  del problem
+  483  rm problem3
+  484  ls
+  485  rm -rf problem3
+  486  ls
+  487  mkdir "problem 3"
+  488  ls
+  489  cd "problem 3"
+  490  ls
+  491  history
+  492  echo history > "My History.txt"
+  493  cat My\ History.txt 
+  494  ls
+  495  rm My\ History.txt 
+  496  ls
+  497  history > "My History.txt"

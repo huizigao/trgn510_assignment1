@@ -1,0 +1,8 @@
+root     188023   2198  0 22:33 ?        00:00:01 sshd: huizigao [priv]
+huizigao 188090 188023  0 22:33 ?        00:00:00 sshd: huizigao@pts/6
+huizigao 188091 188090  0 22:33 pts/6    00:00:00 -bash
+root     188247   2198  0 22:34 ?        00:00:01 sshd: huizigao [priv]
+huizigao 188262 188247  0 22:35 ?        00:00:00 sshd: huizigao@pts/7
+huizigao 188263 188262  0 22:35 pts/7    00:00:00 -bash
+huizigao 192762 188091  0 22:42 pts/6    00:00:00 ps -ef
+huizigao 192763 188091  0 22:42 pts/6    00:00:00 grep --color=auto huizigao
